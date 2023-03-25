@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="MinecraftServerInstaller:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinecraftServerInstaller_jar</output-path>
+    <root id="root">
+      <element id="archive" name="MinecraftServerInstaller.jar">
+        <element id="module-output" name="MinecraftServerInstaller" />
+      </element>
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
